@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(sky.jpg);
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    text-align: left;
+    padding-left: 100px;
+    align-items: center;
+}
+.color{
+    color: red;
+}
+.nae{
+    background-color: blue;
+    height: 10vh;
+}
+.id{
+text-align: center;
+color: white;
+padding-top: 10px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.btn{
+  margin-left: 90px;
+  background-color: red;
+  color:#fff;
+  transition: 3000ms;
+}
+.btn:hover{
+    background-color: green;
+    color: black;
+    transition: 3000ms;
+    border: none;
+}
+.te{
+  color: red;
+}
+.we{
+    height: 3vh;
+    text-align: center;
+}
+.ce{
+    text-align:center;
+    padding-left: 10%;
+    align-items: center;
+    padding-top: 20px;
+    width: 22%;
+}
+h1{
+    color: white;
+}
